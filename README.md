@@ -1,3 +1,4 @@
-# Netflix Clone
+# Netflix clone
 
 ## Tech stack 
+
